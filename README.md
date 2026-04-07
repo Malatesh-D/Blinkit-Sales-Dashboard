@@ -1,0 +1,1 @@
+This project presents an interactive Power BI dashboard built using Blinkit grocery dataset. The dashboard provides insights into sales performance, outlet distribution, and product-level analysis to support business decision-making.
